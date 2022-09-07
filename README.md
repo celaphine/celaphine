@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi :sunflower: My name is Julia Nadine Malagueno
+Hi :sunflower: My name is Julia Nadine Malagueño
 =======================================
 
 A student leader studying BS Information Technology :computer:
