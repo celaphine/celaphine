@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <h1> 
   <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/BmfDRHdpLw6sszpKp9/giphy.gif" width="100"/><br>
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/> <br> I'm Julia Nadine Malagueno :sunflower: 
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/> <img src="https://media.giphy.com/media/BmfDRHdpLw6sszpKp9/giphy.gif" width="100"/><br> 
+  I'm Julia Nadine Malagueno :sunflower: 
     <div id="badges">
   <a href="https://www.linkedin.com/in/julia-nadine-malagueno-a5921324b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   <a href="mailto:julianadinemalagueno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--   <a href="your-twitter-URL">
+ <a href="https://twitter.com/jn_malagueno">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
 </div>
 <!--     <img src="https://komarev.com/ghpvc/?username=celaphine&style=flat-square&color=blue" alt=""/> -->
   </h1>
