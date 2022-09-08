@@ -20,10 +20,22 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/><br>
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/> <br> I'm Julia Nadine Malagueno :sunflower: 
-  </h1>
+    <div id="badges">
+  <a href="https://www.linkedin.com/in/julia-nadine-malagueno-a5921324b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:julianadinemalagueno@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+<!--   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
 </div>
-I'm a student leader studying BS Information Technology :computer:
-I've been studying coding for 4 years and counting. I also joined hackathons, ideathons, and workshops to develop my skills. I've created academic projects using but not limited to Laravel, MERN, and Figma. I am interested in back-end development, yet my passion is more on designing and being creative which is applicable to front-end development.
+  </h1>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+</div>
+I'm a student leader <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="20"/>  studying BS Information Technology. 
+I've been studying coding for 4 years and counting. I also joined hackathons, ideathons, and workshops to develop my skills. I've created academic projects using but not limited to Laravel, MERN, and Figma. I am interested in back-end development, yet my passion is more on designing and being creative which is applicable to front-end development. <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30"/> 
 
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [julianadinemalagueno@gmail.com](mailto:julianadinemalagueno@gmail.com)
