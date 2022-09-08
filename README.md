@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  Hi :sunflower: Julia here 👋
-  =======================================
-I'm a student leader studying BS Information Technology :computer:
---------------------------------------------------------------
-
 <div id="header" align="center">
+  <h1> 
   <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="100"/><br>
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/> <br> I'm Julia Nadine Malagueno :sunflower: 
+  </h1>
 </div>
-
+I'm a student leader studying BS Information Technology :computer:
 I've been studying coding for 4 years and counting. I also joined hackathons, ideathons, and workshops to develop my skills. I've created academic projects using but not limited to Laravel, MERN, and Figma. I am interested in back-end development, yet my passion is more on designing and being creative which is applicable to front-end development.
 
 * 🌍  I'm based in the Philippines
