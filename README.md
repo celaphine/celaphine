@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<div id="header" align="center">
   Hi :sunflower: My name is Julia Nadine Malagueño
   =======================================
 A student leader studying BS Information Technology :computer:
 --------------------------------------------------------------
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/>
 </div>
 
