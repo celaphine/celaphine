@@ -21,6 +21,10 @@ Hi :sunflower: My name is Julia Nadine Malagueño
 A student leader studying BS Information Technology :computer:
 --------------------------------------------------------------
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="100"/>
+</div>
+
 I've been studying coding for 4 years and counting. I also joined hackathons, ideathons, and workshops to develop my skills. I've created academic projects using but not limited to Laravel, MERN, and Figma. I am interested in back-end development, yet my passion is more on designing and being creative which is applicable to front-end development.
 
 * 🌍  I'm based in the Philippines
