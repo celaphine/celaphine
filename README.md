@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![@celaphine's Holopin board](https://holopin.io/api/user/board?user=celaphine)](https://holopin.io/@celaphine)
+
 <div id="header" align="center">
   <h1> 
     <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>
