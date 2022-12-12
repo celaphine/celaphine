@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![@celaphine's Holopin board](https://holopin.io/api/user/board?user=celaphine)](https://holopin.io/@celaphine)
+[![@celaphine7's Holopin board](https://holopin.me/celaphine7)](https://holopin.io/@celaphine7)
 
 <div id="header" align="center">
   <h1> 
